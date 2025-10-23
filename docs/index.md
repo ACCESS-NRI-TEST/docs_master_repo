@@ -3,8 +3,8 @@ hide:
   - navigation
   - toc
 ---
-{% set hive_docs_url="https://hive-docs-test.readthedocs.io" %}
 {% set om3_configs_url="https://docs-master-repo.readthedocs.io/projects/access-om3-configs" %}
+{% set ram3_configs_url="https://docs-master-repo.readthedocs.io/projects/access-ram3-configs" %}
 
 <h1 class="homepage"></h1>
 <div class="introduction">
@@ -17,6 +17,6 @@ hide:
 </div>
 
 <div class="text-card-group" markdown>
-[Hive Docs]({{hive_docs_url}}){: .text-card}
 [ACCESS-OM3 configs]({{om3_configs_url}}){: .text-card}
+[ACCESS-rAM3 configs]({{ram3_configs_url}}){: .text-card}
 </div>
